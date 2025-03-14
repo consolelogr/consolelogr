@@ -23,7 +23,8 @@ I also run **[Somelifti](https://somelifti.com)**, a social media marketing comp
 
 ## 💻 Tech Stack
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js
-- **Backend:** Node.js **Database:** MySQL
+- **Backend:** Node.js
+- **Database:** MySQL
 - **Tools & Platforms:** Git, GitHub, VSCode, WordPress, Linux, LM Studio
 
 ## 📢 Connect With Me
