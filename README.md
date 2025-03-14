@@ -13,3 +13,20 @@
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![LM Studio](https://img.shields.io/badge/LM%20Studio-FF6D00?style=for-the-badge&logo=lmstudio&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-FFB000?style=for-the-badge&logo=anthropic&logoColor=white)
+
+# Hi there, I'm Teemu! 👋
+
+## 🚀 About Me
+I'm a passionate **Web Developer** specializing in **HTML, CSS, JavaScript, and React**. I love building clean, responsive, and dynamic web applications. My focus is on creating user-friendly and high-performance websites that leave a lasting impression.
+
+I also run **[Somelifti](https://somelifti.com)**, a social media marketing company. We help businesses establish a strong online presence through modern web solutions and strategic digital marketing.
+
+## 💻 Tech Stack
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js
+- **Backend:** Node.js **Database:** MySQL
+- **Tools & Platforms:** Git, GitHub, VSCode, WordPress, Linux, LM Studio
+
+## 📢 Connect With Me
+- 🌐 **Website:** [consolelogger.com](https://consolelogger.com)
+- 🔗 **Company:** [Somelifti](https://somelifti.com)
+- 💼 **LinkedIn:** [linkedin.com/in/vesterinenteemu](https://linkedin.com/in/vesterinenteemu)
